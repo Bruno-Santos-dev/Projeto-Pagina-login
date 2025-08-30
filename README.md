@@ -25,6 +25,7 @@
 <!-- EXEMPLO DE DESCRIÇÃO DE UM PROJETO: -->
 - src
   - assets
+  - Src
   - style
   
     
