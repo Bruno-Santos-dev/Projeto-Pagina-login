@@ -48,7 +48,8 @@ Este projeto é uma pagina de login desenvolvida do zero utilizando HTML e CSS. 
 ## 🎨 Layout
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-https://www.bing.com/images/search?view=detailV2&insightstoken=bcid_TnwXpmB4c98IOmHKkJjiYWgXL9ylmZtgEaM*ccid_fBemYHhz&form=SBISNP&vsimg=https%3a%2f%2fwww.bing.com%2fimages%2fblob%3fbcid%3dTnwXpmB4c98IqxcxoNWLuD9SqbotqVTdP6Q&iss=SBIUPLOADGET&sbisrc=ImgPicker&idpbck=1&selectedindex=0&id=-299044627&ccid=fBemYHhz&exph=303&expw=617&vt=3&sim=11&cal=0&cab=1&cat=0&car=1
+<img width="782" height="385" alt="Captura de tela 2025-08-30 085557" src="https://github.com/user-attachments/assets/503fedf4-c135-43b8-8846-964e891ce6f3" />
+
 
 ---
 
